@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()\n\n\nsource\n\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody\n\nsay_hello(\"Isaac\")\n\n'Hello Isaac!'\n\n\n\nassert say_hello(\"Hamel\") == \"Hello Hamel!\""
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev-hello-world",
+    "section": "",
+    "text": "nah just a say hello function"
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev-hello-world",
+    "section": "Install",
+    "text": "Install\npip install nbdev_hello_world"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev-hello-world",
+    "section": "How to use",
+    "text": "How to use\ninsert your name in and say hello\n\nsay_hello(\"Trash\")\n\n'Hello Trash!'"
+  }
+]
